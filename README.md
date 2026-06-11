@@ -12,6 +12,10 @@ A production-ready Retrieval-Augmented Generation (RAG) system built with NestJS
 - **Comprehensive Logging**: Debug-friendly logging for monitoring and troubleshooting
 - **Type-Safe**: Full TypeScript support with strict type checking
 
+
+
+  
+
 ## 📋 Prerequisites
 
 - Node.js 18+
