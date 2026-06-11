@@ -251,4 +251,3 @@ For support, email hello@officebanao.com or open an issue in the repository.
 
 ---
 
-**Made with ❤️ for OfficebanAO**
